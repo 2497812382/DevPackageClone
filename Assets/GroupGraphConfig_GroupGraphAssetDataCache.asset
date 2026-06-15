@@ -15,36 +15,13 @@ MonoBehaviour:
   m_InputAssetDataCaches:
   - groupNodeData: {fileID: -8832119674074035084, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: In
-    assetDatas:
-    - m_Guid: 922aece1191e05b44ac6142147a43d30
-    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
-    - m_Guid: ff99bed70294be341989e36aeb8a749e
-    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+    assetDatas: []
   - groupNodeData: {fileID: -4652560644938684112, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: In
-    assetDatas:
-    - m_Guid: 922aece1191e05b44ac6142147a43d30
-    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
-    - m_Guid: ff99bed70294be341989e36aeb8a749e
-    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+    assetDatas: []
   - groupNodeData: {fileID: 2713247979681115926, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: In
-    assetDatas:
-    - m_Guid: 922aece1191e05b44ac6142147a43d30
-    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
-    - m_Guid: ff99bed70294be341989e36aeb8a749e
-    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
-  - groupNodeData: {fileID: 5478304262233808296, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: In
-    assetDatas:
-    - m_Guid: 00000000000000001000000000000000
-  - groupNodeData: {fileID: -8221473849793405980, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: In
-    assetDatas:
-    - m_Guid: 922aece1191e05b44ac6142147a43d30
-    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
-    - m_Guid: ff99bed70294be341989e36aeb8a749e
-    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+    assetDatas: []
   - groupNodeData: {fileID: 560209045789388220, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: In
     assetDatas:
@@ -67,17 +44,58 @@ MonoBehaviour:
     - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
     - m_Guid: ff99bed70294be341989e36aeb8a749e
     - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: 5084696696553191147, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: In
+    assetDatas:
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: ff99bed70294be341989e36aeb8a749e
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: -5145799999042212934, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: In
+    assetDatas:
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: ff99bed70294be341989e36aeb8a749e
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: -8748287303496645172, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: In
+    assetDatas:
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: ff99bed70294be341989e36aeb8a749e
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: -6538965229425369112, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: In
+    assetDatas:
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: ff99bed70294be341989e36aeb8a749e
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: 8746909568930391941, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: In
+    assetDatas:
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: ff99bed70294be341989e36aeb8a749e
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: -8221473849793405980, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: In
+    assetDatas: []
+  - groupNodeData: {fileID: 5478304262233808296, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: In
+    assetDatas: []
+  - groupNodeData: {fileID: 2933894652804151585, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: In
+    assetDatas:
+    - m_Guid: 00000000000000001000000000000000
   m_OutputAssetDataCaches:
   - groupNodeData: {fileID: -8832119674074035084, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Other
     assetDatas: []
   - groupNodeData: {fileID: -4652560644938684112, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Out
-    assetDatas:
-    - m_Guid: 922aece1191e05b44ac6142147a43d30
-    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
-    - m_Guid: ff99bed70294be341989e36aeb8a749e
-    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+    assetDatas: []
   - groupNodeData: {fileID: 2713247979681115926, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Out
     assetDatas: []
@@ -85,43 +103,9 @@ MonoBehaviour:
     portName: Out
     assetDatas:
     - m_Guid: 00000000000000001000000000000000
-  - groupNodeData: {fileID: 5478304262233808296, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: Out
-    assetDatas:
-    - m_Guid: 922aece1191e05b44ac6142147a43d30
-    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
-    - m_Guid: ff99bed70294be341989e36aeb8a749e
-    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
   - groupNodeData: {fileID: -8832119674074035084, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Out
-    assetDatas:
-    - m_Guid: 922aece1191e05b44ac6142147a43d30
-    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
-    - m_Guid: ff99bed70294be341989e36aeb8a749e
-    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
-  - groupNodeData: {fileID: -8832119674074035084, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: Texture_Regular1
-    assetDatas:
-    - m_Guid: 922aece1191e05b44ac6142147a43d30
-  - groupNodeData: {fileID: -8832119674074035084, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: Texture_Regular2
-    assetDatas:
-    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
-  - groupNodeData: {fileID: -8832119674074035084, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: Texture
-    assetDatas:
-    - m_Guid: ff99bed70294be341989e36aeb8a749e
-  - groupNodeData: {fileID: -8832119674074035084, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: Texture_Remove
-    assetDatas:
-    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
-  - groupNodeData: {fileID: -8221473849793405980, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: Out
-    assetDatas:
-    - m_Guid: 922aece1191e05b44ac6142147a43d30
-    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
-    - m_Guid: ff99bed70294be341989e36aeb8a749e
-    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+    assetDatas: []
   - groupNodeData: {fileID: 560209045789388220, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Out
     assetDatas:
@@ -183,3 +167,64 @@ MonoBehaviour:
   - groupNodeData: {fileID: 162420147214707486, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Other
     assetDatas: []
+  - groupNodeData: {fileID: 734430159435036365, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Out
+    assetDatas:
+    - m_Guid: 00000000000000001000000000000000
+  - groupNodeData: {fileID: 5084696696553191147, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Out
+    assetDatas:
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: ff99bed70294be341989e36aeb8a749e
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: -5145799999042212934, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Out
+    assetDatas:
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: ff99bed70294be341989e36aeb8a749e
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: -8748287303496645172, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Out
+    assetDatas:
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: ff99bed70294be341989e36aeb8a749e
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: -8748287303496645172, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Other
+    assetDatas: []
+  - groupNodeData: {fileID: -6538965229425369112, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Out
+    assetDatas:
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: ff99bed70294be341989e36aeb8a749e
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: -6538965229425369112, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Other
+    assetDatas: []
+  - groupNodeData: {fileID: 8746909568930391941, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Out
+    assetDatas:
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: ff99bed70294be341989e36aeb8a749e
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: 8746909568930391941, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Other
+    assetDatas: []
+  - groupNodeData: {fileID: 5478304262233808296, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Out
+    assetDatas: []
+  - groupNodeData: {fileID: -8221473849793405980, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Out
+    assetDatas: []
+  - groupNodeData: {fileID: 2933894652804151585, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Out
+    assetDatas:
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: ff99bed70294be341989e36aeb8a749e
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
