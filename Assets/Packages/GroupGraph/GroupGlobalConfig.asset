@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd23798ef048b545bcba5cd3880967a, type: 3}
+  m_Name: GroupGlobalConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  isAutoRemoveNotExistEntry: 1
+  isAutoRemoveMissingReference: 1
+  isAutoRemoveEmptyAssetGroup: 1
+  enableAssetPostProcess: 1
+  m_IgnoreFileFormats:
+  - cs
+  - h
+  - aar
+  - meta
+  - xlsx
+  m_AudioFileFormats:
+  - mp3
+  - ogg
+  - wav
+  - aiff
+  - aif
+  - mod
+  - it
+  - s3m
+  - xm
+  m_TextureFileFormats:
+  - jpg
+  - png
+  - psd
+  - gif
+  - tiff
+  - bmp
+  - exr
+  - hdr
+  - iff
+  - pict
+  - tga
+  - spriteatlas
+  m_IgnoredAssetsPath: []
+  m_IgnoredFolder:
+  - Assets/AddressableAssetsData/AssetGroups/Schemas
+  m_PresetConfig: {fileID: 11400000, guid: 0742ce042ccc18949b14c91a066f15a0, type: 2}
