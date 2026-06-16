@@ -138,7 +138,8 @@ MonoBehaviour:
     - m_Guid: 00000000000000001000000000000000
   - groupNodeData: {fileID: -5501745062149762794, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: In
-    assetDatas: []
+    assetDatas:
+    - m_Guid: 00000000000000001000000000000000
   m_OutputAssetDataCaches:
   - groupNodeData: {fileID: -8832119674074035084, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Other
@@ -345,4 +346,5 @@ MonoBehaviour:
     - m_Guid: 00000000000000001000000000000000
   - groupNodeData: {fileID: -5501745062149762794, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Out
-    assetDatas: []
+    assetDatas:
+    - m_Guid: 00000000000000001000000000000000
