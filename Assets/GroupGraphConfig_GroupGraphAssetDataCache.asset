@@ -102,10 +102,6 @@ MonoBehaviour:
     - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
     - m_Guid: ff99bed70294be341989e36aeb8a749e
     - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
-  - groupNodeData: {fileID: -8824343532614621373, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: In
-    assetDatas:
-    - m_Guid: 00000000000000001000000000000000
   - groupNodeData: {fileID: -8221473849793405980, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: In
     assetDatas:
@@ -129,6 +125,10 @@ MonoBehaviour:
     assetDatas:
     - m_Guid: 00000000000000001000000000000000
   - groupNodeData: {fileID: 1041119053030676879, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: In
+    assetDatas:
+    - m_Guid: 00000000000000001000000000000000
+  - groupNodeData: {fileID: 4254057535179914042, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: In
     assetDatas:
     - m_Guid: 00000000000000001000000000000000
@@ -278,13 +278,6 @@ MonoBehaviour:
     portName: Texture 3
     assetDatas:
     - m_Guid: 7b4af6cd12c51ca439f20fbdb40e8805
-  - groupNodeData: {fileID: -8824343532614621373, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: Out
-    assetDatas:
-    - m_Guid: 00000000000000001000000000000000
-  - groupNodeData: {fileID: -8824343532614621373, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: Other
-    assetDatas: []
   - groupNodeData: {fileID: -8221473849793405980, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Out
     assetDatas:
@@ -322,6 +315,10 @@ MonoBehaviour:
     assetDatas:
     - m_Guid: 00000000000000001000000000000000
   - groupNodeData: {fileID: -1212907823525762842, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    portName: Out
+    assetDatas:
+    - m_Guid: 00000000000000001000000000000000
+  - groupNodeData: {fileID: 4254057535179914042, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Out
     assetDatas:
     - m_Guid: 00000000000000001000000000000000
