@@ -8,7 +8,7 @@ public class ModifyTest : MonoBehaviour
     void Start()
     {
         int doSth = 1;
-        int doSth0 = 2;
+        int doSwt = 12;
     }
 
     // Update is called once per frame
