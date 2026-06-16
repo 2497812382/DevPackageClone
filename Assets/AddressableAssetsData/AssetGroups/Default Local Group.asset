@@ -16,42 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: c82e390bfd572594390c6934ed066a30
-  m_SerializeEntries:
-  - m_GUID: 1ec54155a76834b4b979cd9df755794c
-    m_Address: Assets/TextureFolder0/Group1
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4c6bb0f1cbbbabc4f87e46ebc125a771
-    m_Address: Assets/Texture_1 1.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 66bb0ba2ed7e3094ca04671f2b23374f
-    m_Address: Assets/Texture_1 3.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 83f2c73a5c3c29f46a6090bde5c0768b
-    m_Address: Assets/TextureFolder0
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9622be942bdd05946be855d5e6e5ff21
-    m_Address: Assets/TextureFolder0/Group2
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b6d9be063e7a75847ace8361988595b7
-    m_Address: Assets/TextureFolder0/Texture_Remove.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ee5922d60036911499b148d6aedf7b09
-    m_Address: Assets/TextureFolder0/Group2/Texture_Regular2.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 14bcebb8797de6343bb063eb8d2ce816, type: 2}
   m_SchemaSet:
