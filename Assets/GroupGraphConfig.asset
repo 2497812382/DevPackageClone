@@ -61,7 +61,7 @@ MonoBehaviour:
         PeroTools2.GroupGraph.Editor]], mscorlib
     - Name: 
       Entry: 12
-      Data: 6
+      Data: 8
     - Name: 
       Entry: 7
       Data: 4|PeroTools2.GroupGraph.Editor.PortCollection+AssetPortData, PeroTools2.GroupGraph.Editor
@@ -132,7 +132,7 @@ MonoBehaviour:
       Data: 11|PeroTools2.GroupGraph.Editor.AssetData, PeroTools2.GroupGraph.Editor
     - Name: m_Guid
       Entry: 1
-      Data: ff99bed70294be341989e36aeb8a749e
+      Data: 9bdd4ff19f58463438acb4918202f6d6
     - Name: 
       Entry: 8
       Data: 
@@ -163,7 +163,7 @@ MonoBehaviour:
       Data: 14|PeroTools2.GroupGraph.Editor.AssetData, PeroTools2.GroupGraph.Editor
     - Name: m_Guid
       Entry: 1
-      Data: 9bdd4ff19f58463438acb4918202f6d6
+      Data: 4c6bb0f1cbbbabc4f87e46ebc125a771
     - Name: 
       Entry: 8
       Data: 
@@ -188,13 +188,44 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 16|PeroTools2.GroupGraph.Editor.PortCollection+NamePortData, PeroTools2.GroupGraph.Editor
+      Data: 16|PeroTools2.GroupGraph.Editor.PortCollection+AssetPortData, PeroTools2.GroupGraph.Editor
+    - Name: m_AssetData
+      Entry: 7
+      Data: 17|PeroTools2.GroupGraph.Editor.AssetData, PeroTools2.GroupGraph.Editor
+    - Name: m_Guid
+      Entry: 1
+      Data: 66bb0ba2ed7e3094ca04671f2b23374f
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: m_Connections
+      Entry: 7
+      Data: 18|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.IGroupNodeData,
+        PeroTools2.GroupGraph.Editor]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: m_Capacity
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 19|PeroTools2.GroupGraph.Editor.PortCollection+NamePortData, PeroTools2.GroupGraph.Editor
     - Name: m_PortName
       Entry: 1
       Data: Out
     - Name: m_Connections
       Entry: 7
-      Data: 17|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.IGroupNodeData,
+      Data: 20|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.IGroupNodeData,
         PeroTools2.GroupGraph.Editor]], mscorlib
     - Name: 
       Entry: 12
@@ -216,13 +247,44 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 18|PeroTools2.GroupGraph.Editor.PortCollection+NamePortData, PeroTools2.GroupGraph.Editor
+      Data: 21|PeroTools2.GroupGraph.Editor.PortCollection+NamePortData, PeroTools2.GroupGraph.Editor
     - Name: m_PortName
       Entry: 1
       Data: Other
     - Name: m_Connections
       Entry: 7
-      Data: 19|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.IGroupNodeData,
+      Data: 22|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.IGroupNodeData,
+        PeroTools2.GroupGraph.Editor]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: m_Capacity
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 23|PeroTools2.GroupGraph.Editor.PortCollection+AssetPortData, PeroTools2.GroupGraph.Editor
+    - Name: m_AssetData
+      Entry: 7
+      Data: 24|PeroTools2.GroupGraph.Editor.AssetData, PeroTools2.GroupGraph.Editor
+    - Name: m_Guid
+      Entry: 1
+      Data: b6d9be063e7a75847ace8361988595b7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: m_Connections
+      Entry: 7
+      Data: 25|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.IGroupNodeData,
         PeroTools2.GroupGraph.Editor]], mscorlib
     - Name: 
       Entry: 12
@@ -250,7 +312,7 @@ MonoBehaviour:
       Data: 
     - Name: process
       Entry: 7
-      Data: 20|PeroTools2.GroupGraph.Editor.AssignProcess, PeroTools2.GroupGraph.Editor
+      Data: 26|PeroTools2.GroupGraph.Editor.AssignProcess, PeroTools2.GroupGraph.Editor
     - Name: nodeData
       Entry: 10
       Data: 2
@@ -259,11 +321,11 @@ MonoBehaviour:
       Data: true
     - Name: m_EditOutputs
       Entry: 7
-      Data: 21|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.AssetData,
+      Data: 27|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.AssetData,
         PeroTools2.GroupGraph.Editor]], mscorlib
     - Name: 
       Entry: 12
-      Data: 4
+      Data: 8
     - Name: 
       Entry: 9
       Data: 5
@@ -276,6 +338,30 @@ MonoBehaviour:
     - Name: 
       Entry: 9
       Data: 14
+    - Name: 
+      Entry: 9
+      Data: 17
+    - Name: 
+      Entry: 7
+      Data: 28|PeroTools2.GroupGraph.Editor.AssetData, PeroTools2.GroupGraph.Editor
+    - Name: m_Guid
+      Entry: 1
+      Data: cdfe0177d5231ea45ba9214fb503a63d
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 29|PeroTools2.GroupGraph.Editor.AssetData, PeroTools2.GroupGraph.Editor
+    - Name: m_Guid
+      Entry: 1
+      Data: ee5922d60036911499b148d6aedf7b09
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 9
+      Data: 24
     - Name: 
       Entry: 13
       Data: 
