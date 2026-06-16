@@ -1242,7 +1242,7 @@ MonoBehaviour:
       Data: 
   m_HasInit: 1
   miniMapData:
-    visible: 1
+    visible: 0
     position: {x: 0, y: 0}
 --- !u!114 &1618054057933076950
 MonoBehaviour:
@@ -1515,7 +1515,7 @@ MonoBehaviour:
       Entry: 3
       Data: 0
     - Name: m_Regular
-      Entry: 6
+      Entry: 1
       Data: 
     - Name: 
       Entry: 8
