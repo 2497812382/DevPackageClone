@@ -1152,7 +1152,7 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
-  m_Position: {x: 61.333267, y: 540.9471}
+  m_Position: {x: 61.33332, y: 613}
   rootAsset: {fileID: 102900000, guid: 00000000000000001000000000000000, type: 3}
 --- !u!114 &11400000
 MonoBehaviour:
@@ -1690,4 +1690,4 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
-  m_Position: {x: 1052, y: 560.6666}
+  m_Position: {x: 1132.7334, y: 613.3334}
