@@ -11,10 +11,6 @@ public class ModifyTest : MonoBehaviour
         int doSwt = 12;
         
         
-        
-        
-        
-        
     }
 
     // Update is called once per frame
