@@ -1011,7 +1011,7 @@ MonoBehaviour:
     ReferencedUnityObjects:
     - {fileID: -8267727565430204569}
     - {fileID: -2332286113161135479}
-    - {fileID: 8909953714999495945}
+    - {fileID: 6330242009501357837}
     - {fileID: 4254057535179914042}
     SerializedBytesString: 
     Prefab: {fileID: 0}
@@ -1222,7 +1222,7 @@ MonoBehaviour:
       Entry: 8
       Data: 
   m_Position: {x: 372.60666, y: -136.66672}
---- !u!114 &8909953714999495945
+--- !u!114 &6330242009501357837
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1231,15 +1231,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b9c2d46075cb48e0aa13a72397adc1d7, type: 3}
-  m_Name: AssignNodeData
+  m_Script: {fileID: 11500000, guid: 2697162f1ebb4011963acaa593752457, type: 3}
+  m_Name: RegularNodeData
   m_EditorClassIdentifier: 
   serializationData:
     SerializedFormat: 2
     SerializedBytes: 
     ReferencedUnityObjects:
     - {fileID: 4254057535179914042}
-    - {fileID: 8909953714999495945}
+    - {fileID: 6330242009501357837}
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
@@ -1282,47 +1282,16 @@ MonoBehaviour:
         PeroTools2.GroupGraph.Editor]], mscorlib
     - Name: 
       Entry: 12
-      Data: 3
+      Data: 2
     - Name: 
       Entry: 7
-      Data: 4|PeroTools2.GroupGraph.Editor.PortCollection+AssetPortData, PeroTools2.GroupGraph.Editor
-    - Name: m_AssetData
-      Entry: 7
-      Data: 5|PeroTools2.GroupGraph.Editor.AssetData, PeroTools2.GroupGraph.Editor
-    - Name: m_Guid
-      Entry: 1
-      Data: 00000000000000001000000000000000
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: m_Connections
-      Entry: 7
-      Data: 6|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.IGroupNodeData,
-        PeroTools2.GroupGraph.Editor]], mscorlib
-    - Name: 
-      Entry: 12
-      Data: 0
-    - Name: 
-      Entry: 13
-      Data: 
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: m_Capacity
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 7|PeroTools2.GroupGraph.Editor.PortCollection+NamePortData, PeroTools2.GroupGraph.Editor
+      Data: 4|PeroTools2.GroupGraph.Editor.PortCollection+NamePortData, PeroTools2.GroupGraph.Editor
     - Name: m_PortName
       Entry: 1
       Data: Out
     - Name: m_Connections
       Entry: 7
-      Data: 8|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.IGroupNodeData,
+      Data: 5|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.IGroupNodeData,
         PeroTools2.GroupGraph.Editor]], mscorlib
     - Name: 
       Entry: 12
@@ -1341,13 +1310,13 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 9|PeroTools2.GroupGraph.Editor.PortCollection+NamePortData, PeroTools2.GroupGraph.Editor
+      Data: 6|PeroTools2.GroupGraph.Editor.PortCollection+NamePortData, PeroTools2.GroupGraph.Editor
     - Name: m_PortName
       Entry: 1
       Data: Other
     - Name: m_Connections
       Entry: 7
-      Data: 10|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.IGroupNodeData,
+      Data: 7|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.IGroupNodeData,
         PeroTools2.GroupGraph.Editor]], mscorlib
     - Name: 
       Entry: 12
@@ -1375,30 +1344,17 @@ MonoBehaviour:
       Data: 
     - Name: process
       Entry: 7
-      Data: 11|PeroTools2.GroupGraph.Editor.AssignProcess, PeroTools2.GroupGraph.Editor
+      Data: 8|PeroTools2.GroupGraph.Editor.RegularProcess, PeroTools2.GroupGraph.Editor
     - Name: nodeData
       Entry: 10
       Data: 1
-    - Name: m_ResetOnInputUpdate
-      Entry: 5
-      Data: true
-    - Name: m_EditOutputs
-      Entry: 7
-      Data: 12|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.AssetData,
-        PeroTools2.GroupGraph.Editor]], mscorlib
-    - Name: 
-      Entry: 12
-      Data: 1
-    - Name: 
-      Entry: 9
-      Data: 5
-    - Name: 
-      Entry: 13
+    - Name: m_RegularType
+      Entry: 3
+      Data: 0
+    - Name: m_Regular
+      Entry: 6
       Data: 
     - Name: 
       Entry: 8
       Data: 
-    - Name: 
-      Entry: 8
-      Data: 
-  m_Position: {x: 656.9092, y: 656.90936}
+  m_Position: {x: 1013.5999, y: 112.000046}
