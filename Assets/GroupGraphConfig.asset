@@ -17,7 +17,6 @@ MonoBehaviour:
     SerializedBytes: 
     ReferencedUnityObjects:
     - {fileID: 4254057535179914042}
-    - {fileID: -400539206114377849}
     - {fileID: -8982748502656018614}
     SerializedBytesString: 
     Prefab: {fileID: 0}
@@ -74,10 +73,7 @@ MonoBehaviour:
         PeroTools2.GroupGraph.Editor]], mscorlib
     - Name: 
       Entry: 12
-      Data: 1
-    - Name: 
-      Entry: 10
-      Data: 1
+      Data: 0
     - Name: 
       Entry: 13
       Data: 
@@ -129,7 +125,7 @@ MonoBehaviour:
       Data: 8|PeroTools2.GroupGraph.Editor.RegularProcess, PeroTools2.GroupGraph.Editor
     - Name: nodeData
       Entry: 10
-      Data: 2
+      Data: 1
     - Name: m_RegularType
       Entry: 3
       Data: 0
@@ -139,7 +135,7 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
-  m_Position: {x: 1160.9546, y: 146}
+  m_Position: {x: 784.66656, y: 146.00002}
 --- !u!114 &-8832119674074035084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -835,7 +831,7 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
-  m_Position: {x: 723.3332, y: 364.33328}
+  m_Position: {x: 723.3333, y: 419.99997}
 --- !u!114 &-2163657762732219536
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -870,6 +866,7 @@ MonoBehaviour:
     SerializedBytes: 
     ReferencedUnityObjects:
     - {fileID: -2332286113161135479}
+    - {fileID: 803666459491818629}
     - {fileID: -891971205039209689}
     SerializedBytesString: 
     Prefab: {fileID: 0}
@@ -926,7 +923,10 @@ MonoBehaviour:
         PeroTools2.GroupGraph.Editor]], mscorlib
     - Name: 
       Entry: 12
-      Data: 0
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 1
     - Name: 
       Entry: 13
       Data: 
@@ -953,12 +953,50 @@ MonoBehaviour:
       Data: 6|PeroTools2.GroupGraph.Editor.CombineProcess, PeroTools2.GroupGraph.Editor
     - Name: nodeData
       Entry: 10
-      Data: 1
+      Data: 2
     - Name: 
       Entry: 8
       Data: 
   m_Position: {x: 1338.223, y: 443.83948}
---- !u!114 &-400539206114377849
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3053702d91dd9074dad5b15e25ef0c4a, type: 3}
+  m_Name: GroupGraphConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: m_GroupElementDatas
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.GroupElementData,
+        PeroTools2.GroupGraph.Editor]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  m_HasInit: 1
+  miniMapData:
+    visible: 0
+    position: {x: 0, y: 0}
+--- !u!114 &803666459491818629
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -974,8 +1012,8 @@ MonoBehaviour:
     SerializedFormat: 2
     SerializedBytes: 
     ReferencedUnityObjects:
-    - {fileID: -8982748502656018614}
-    - {fileID: -400539206114377849}
+    - {fileID: -891971205039209689}
+    - {fileID: 803666459491818629}
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
@@ -1137,45 +1175,7 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
-  m_Position: {x: 1557.461, y: 291.4457}
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3053702d91dd9074dad5b15e25ef0c4a, type: 3}
-  m_Name: GroupGraphConfig
-  m_EditorClassIdentifier: 
-  serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
-    ReferencedUnityObjects: []
-    SerializedBytesString: 
-    Prefab: {fileID: 0}
-    PrefabModificationsReferencedUnityObjects: []
-    PrefabModifications: []
-    SerializationNodes:
-    - Name: m_GroupElementDatas
-      Entry: 7
-      Data: 0|System.Collections.Generic.List`1[[PeroTools2.GroupGraph.Editor.GroupElementData,
-        PeroTools2.GroupGraph.Editor]], mscorlib
-    - Name: 
-      Entry: 12
-      Data: 0
-    - Name: 
-      Entry: 13
-      Data: 
-    - Name: 
-      Entry: 8
-      Data: 
-  m_HasInit: 1
-  miniMapData:
-    visible: 0
-    position: {x: 0, y: 0}
+  m_Position: {x: 1656.123, y: 615.4418}
 --- !u!114 &1618054057933076950
 MonoBehaviour:
   m_ObjectHideFlags: 0
