@@ -8,6 +8,9 @@ public class MainAsset : ScriptableObject
     void Start()
     {
         
+        
+        
+        
     }
 
     // Update is called once per frame
