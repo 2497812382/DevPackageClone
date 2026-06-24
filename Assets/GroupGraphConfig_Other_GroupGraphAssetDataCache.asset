@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: GroupGraphConfig_Other_GroupGraphAssetDataCache
   m_EditorClassIdentifier: 
   m_InputAssetDataCaches:
-  - groupNodeData: {fileID: -8890292808079021010, guid: a9cc6df4a56161f46ae97e257258a46a, type: 2}
+  - groupNodeData: {fileID: -8552510738482523377, guid: a9cc6df4a56161f46ae97e257258a46a, type: 2}
     portName: In
     assetDatas:
     - m_Guid: 00000000000000001000000000000000
-  - groupNodeData: {fileID: 3386980244183458811, guid: a9cc6df4a56161f46ae97e257258a46a, type: 2}
+  - groupNodeData: {fileID: 549788800351478673, guid: a9cc6df4a56161f46ae97e257258a46a, type: 2}
     portName: In
     assetDatas:
     - m_Guid: 00000000000000001000000000000000
@@ -26,17 +26,11 @@ MonoBehaviour:
     portName: Out
     assetDatas:
     - m_Guid: 00000000000000001000000000000000
-  - groupNodeData: {fileID: -8890292808079021010, guid: a9cc6df4a56161f46ae97e257258a46a, type: 2}
+  - groupNodeData: {fileID: -8552510738482523377, guid: a9cc6df4a56161f46ae97e257258a46a, type: 2}
     portName: Out
     assetDatas:
     - m_Guid: 00000000000000001000000000000000
-  - groupNodeData: {fileID: -8890292808079021010, guid: a9cc6df4a56161f46ae97e257258a46a, type: 2}
-    portName: Other
-    assetDatas: []
-  - groupNodeData: {fileID: 3386980244183458811, guid: a9cc6df4a56161f46ae97e257258a46a, type: 2}
+  - groupNodeData: {fileID: 549788800351478673, guid: a9cc6df4a56161f46ae97e257258a46a, type: 2}
     portName: Out
     assetDatas:
     - m_Guid: 00000000000000001000000000000000
-  - groupNodeData: {fileID: 3386980244183458811, guid: a9cc6df4a56161f46ae97e257258a46a, type: 2}
-    portName: Other
-    assetDatas: []
