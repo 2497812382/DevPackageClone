@@ -8,6 +8,9 @@ public class MainAsset : ScriptableObject
     void Start()
     {
 
+        
+        
+        
 
     }
 

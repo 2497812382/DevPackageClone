@@ -129,14 +129,18 @@ MonoBehaviour:
     portName: In
     assetDatas:
     - m_Guid: 00000000000000001000000000000000
-  - groupNodeData: {fileID: -853293129260415209, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+  - groupNodeData: {fileID: -5313657935934734896, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: In
     assetDatas:
-    - m_Guid: 00000000000000001000000000000000
-  - groupNodeData: {fileID: -4992091655289668820, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: -882233179967502546, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: In
     assetDatas:
-    - m_Guid: 00000000000000001000000000000000
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
   m_OutputAssetDataCaches:
   - groupNodeData: {fileID: -8832119674074035084, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Other
@@ -330,17 +334,15 @@ MonoBehaviour:
   - groupNodeData: {fileID: -1114481363061165789, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Other
     assetDatas: []
-  - groupNodeData: {fileID: -853293129260415209, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+  - groupNodeData: {fileID: -5313657935934734896, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Out
     assetDatas:
-    - m_Guid: 00000000000000001000000000000000
-  - groupNodeData: {fileID: -853293129260415209, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: Other
-    assetDatas: []
-  - groupNodeData: {fileID: -4992091655289668820, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
+  - groupNodeData: {fileID: -882233179967502546, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
     portName: Out
     assetDatas:
-    - m_Guid: 00000000000000001000000000000000
-  - groupNodeData: {fileID: -4992091655289668820, guid: 0e8204fc99e75b54da14f9b44c21f462, type: 2}
-    portName: Other
-    assetDatas: []
+    - m_Guid: 922aece1191e05b44ac6142147a43d30
+    - m_Guid: f3ae6b2388a6d5245a596b82c5dd97d0
+    - m_Guid: 9bdd4ff19f58463438acb4918202f6d6
