@@ -7,9 +7,6 @@ public class MainAsset : ScriptableObject
     // Start is called before the first frame update
     void Start()
     {
-
-        
-        
         
 
     }
